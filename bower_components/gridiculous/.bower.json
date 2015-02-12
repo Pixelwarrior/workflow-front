@@ -1,0 +1,13 @@
+{
+  "name": "gridiculous",
+  "homepage": "https://github.com/cbavota/Gridiculous",
+  "_release": "998d44ea68",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "998d44ea6837142afa08f749b7b57449bf13a29b"
+  },
+  "_source": "git://github.com/cbavota/Gridiculous.git",
+  "_target": "*",
+  "_originalSource": "cbavota/Gridiculous"
+}

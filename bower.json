@@ -1,0 +1,13 @@
+{
+  "name" : "michenet-turbat",
+
+  "dependencies" : {
+    "gridiculous": "cbavota/Gridiculous",
+    "jquery": "latest",
+    "normalize.css": "necolas/normalize.css"
+  },
+
+  "install" : {
+    "path" : "lib"
+  }
+}
